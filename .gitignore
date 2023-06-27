@@ -61,8 +61,6 @@ typings/
 # next.js build output
 .next
 
-#Directory for mochaReport
-mochawesome-report
 
 #.idea files
 .idea

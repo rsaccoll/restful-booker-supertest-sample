@@ -1,0 +1,11 @@
+{
+	"firstname": "Other",
+	"lastname": "Test",
+	"totalprice": 112,
+	"depositpaid": false,
+	"bookingdates": {
+		"checkin": "2022-04-30",
+		"checkout": "2022-04-30"
+	},
+	"additionalneeds": "Go Horse"
+}

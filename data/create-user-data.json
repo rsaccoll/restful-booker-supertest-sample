@@ -1,0 +1,12 @@
+{
+
+	"firstname": "Ramses",
+	"lastname": "Saccol",
+	"totalprice": 666,
+	"depositpaid": false,
+	"bookingdates": {
+		"checkin": "2023-04-30",
+		"checkout": "2023-04-30"
+	},
+	"additionalneeds": "Testing"
+}

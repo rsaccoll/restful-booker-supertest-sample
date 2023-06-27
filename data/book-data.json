@@ -1,0 +1,12 @@
+{
+    "booking_id": "5",
+	"firstname": "Susan",
+	"lastname": "Jones",
+	"totalprice": 506,
+	"depositpaid": false,
+	"bookingdates": {
+		"checkin": "2021-03-16",
+		"checkout": "2021-04-06"
+	},
+	"additionalneeds": "Breakfast"
+}

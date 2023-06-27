@@ -1,0 +1,13 @@
+{
+    "valid_user": {
+        "username": "admin",
+        "password": "password123"
+    },
+
+    "invalid_user": {
+        "username": "xpto",
+        "password": "xpto123"
+    },
+
+    "reason": "Bad credentials"
+}
