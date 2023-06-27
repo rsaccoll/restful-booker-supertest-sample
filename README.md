@@ -14,6 +14,8 @@ Install Dependencies:
 npm install
 ```
 
+There is an `.env.sample` file that must be renamed to `.env` and inform the url that will be used for the test. In the case of [https://restful-booker.herokuapp.com]
+
 ## Run Test
 
 ```bash
